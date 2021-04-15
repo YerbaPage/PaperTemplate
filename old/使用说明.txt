@@ -1,3 +1,0 @@
-1. cnaddr.sty, yerbaformatPaper.cls 为调整格式用的文件, 请勿删除
-2. 参考文献信息请导入 reference.bib 然后在文中用 \cite{} 引用
-3. 其他使用说明请见 paper.tex 文件开头
